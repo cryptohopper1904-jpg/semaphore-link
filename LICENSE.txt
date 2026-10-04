@@ -1,0 +1,24 @@
+Semaphore Link – Freeware Licence
+Copyright (c) 2026 Pitt Petruschke (PiP). All rights reserved.
+
+1. Permission. You may download, install and use Semaphore Link free of charge, on any number of
+   computers, for use with the Semaphore EA for MetaTrader 5.
+
+2. Restrictions. You may not sell, rent or sublicense Semaphore Link, distribute modified copies,
+   or remove copyright or licence notices. You may share the unmodified download link.
+
+3. Your accounts. Semaphore Link uses your own Telegram account and your own Telegram API key.
+   You are responsible for complying with Telegram's terms of service and with the rules of your
+   broker or prop firm (many prop firms forbid copying third-party signals).
+
+4. No warranty. Semaphore Link is provided "as is", without warranty of any kind, express or
+   implied, including fitness for a particular purpose. Trading carries a high risk of loss.
+   Signals may be wrong, late, misread or missed.
+
+5. Limitation of liability. To the extent permitted by law, the author is not liable for any
+   losses, including trading losses, lost profits or data loss, arising from the use of or the
+   inability to use Semaphore Link. Mandatory statutory liability (for intent, gross negligence
+   or injury to life, body or health) remains unaffected.
+
+6. Telegram. Semaphore Link is an unofficial Telegram client and is not affiliated with,
+   endorsed by or sponsored by Telegram.
